@@ -1,0 +1,6 @@
+PROJECT TITLE: Projectile Game
+PURPOSE OF PROJECT: Demonstrate understanding of Inherritance
+VERSION or DATE:
+HOW TO START THIS PROJECT:
+AUTHORS:
+USER INSTRUCTIONS:
